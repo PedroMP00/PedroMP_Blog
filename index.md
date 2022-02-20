@@ -1,4 +1,4 @@
-# PedroMP Blog
+## PedroMP Blog
 
 ## Who I am?
 
