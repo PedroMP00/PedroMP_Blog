@@ -2,9 +2,7 @@
 
 ## Who I am?
 
-You can use the [editor on GitHub](https://github.com/PedroMP00/About_Me_Blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm a student in secondary school, I'm working in diferents websites.
 
 ### Markdown
 
